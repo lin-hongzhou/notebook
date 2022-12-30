@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">notebook</string>
+    <string name="pref_night_summary">开启/关闭</string>
+</resources>
